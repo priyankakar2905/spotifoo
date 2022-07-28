@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="mainMenu:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/mainMenu_jar</output-path>
+    <root id="archive" name="mainMenu.jar">
+      <element id="module-output" name="Spotifoo" />
+    </root>
+  </artifact>
+</component>
